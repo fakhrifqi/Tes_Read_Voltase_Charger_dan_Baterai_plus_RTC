@@ -1,4 +1,4 @@
-
+// Ini perubahan urang qi
 
 int valueinputCharger = 0;
 int valueinputBattery = 0;
