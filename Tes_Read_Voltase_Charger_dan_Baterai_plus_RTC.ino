@@ -1,6 +1,7 @@
 // Ini perubahan urang qi
 //tambah led
 //cobain pake gui ismail
+//fully_gui_ismail
 
 int valueinputCharger = 0;
 int valueinputBattery = 0;
