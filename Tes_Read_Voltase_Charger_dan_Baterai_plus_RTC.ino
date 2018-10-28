@@ -1,4 +1,6 @@
 // Ini perubahan urang qi
+//tambah led
+//cobain pake ui
 
 int valueinputCharger = 0;
 int valueinputBattery = 0;
